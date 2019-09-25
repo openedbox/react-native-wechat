@@ -3,5 +3,8 @@ node_modules
 /android/RCTWeChat.iml
 
 Example
+docs
 *.jpg
+.github
+
 
