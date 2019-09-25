@@ -2,7 +2,7 @@
 
 # React-Native-Wechat
 
-### 当前仓库从https://github.com/yorkie/react-native-wechat Fork,感谢原作者 ，因为更新npm和bug修复时间的问题，重新命名当前项目 用于紧急bug修改 
+### 当前仓库从https://github.com/yorkie/react-native-wechat Fork,感谢原作者 ，因为更新npm和bug修复时间的问题，重新命名当前项目 用于紧急bug修改 新npm名称 @avcdata/react-native-wechat
 
 [React Native] bridging library that integrates WeChat SDKs:
 
